@@ -3354,6 +3354,7 @@ tvModule.controller("ThingViewController", function ($scope, $timeout, $interval
                 $scope.jsonMessage = [];
             },
             OnTreeAdd: function (message) {
+                console.log(message)
                 $scope.jsonMessage.push(message);
             },
             OnTreeAddEnd: function () {
@@ -7045,178 +7046,34 @@ tvModule.directive('tview', function ($timeout) {
                 console.log("===" + path);
                 //majar
                 path = './illustrations/ctmc/worldcar-brake-multi-figure.pvz'
+                //widget1.LoadFromURLWithCallback这个函数在这里调用时，无法给$scope.structure赋值，在后面打开弹窗时无法获取let propsJson = $scope.structure.GetInstanceProperties(strippedIdpath)
+                //如果换成官方版本demo中的$scope.structure = $scope.session.LoadStructureWithURL()方法，会报错，比较是不是同一个版本
                 widget1.LoadFromURLWithCallback(path, true, true, true, function(success, isStructure, errorStack){
                    $('#app').css('display','');
                    $('#appLoding').css('display','none');
                    $('#appLoding').mLoading("hide");
-                console.log("Model LoadFromURLWithCallback - success: " + success + ", isStructure: " + isStructure);
-                if (success === true) {
-                	$scope.loadState = "Loaded";
-                    console.log("last process");
+                    console.log("Model LoadFromURLWithCallback - success: " + success + ", isStructure: " + isStructure);
+                    if (success === true) {
+                        $scope.loadState = "Loaded";
+                        console.log("last process");
 
-                	if($.urlGet()['model']){
+                        if($.urlGet()['model']){
 
-                	}else{
-                		$scope.LoadIllustration($scope.illustrations[0]);
-                	}
-                	// var svg = document.getElementById('svg');
-                	// if(svg!=null){
-                	// 		g_svgHot = [];
-                	// 		var SVGDocument = svg.getSVGDocument();
-                	// 		g_svgViewer=svg;
-                	// 		if (SVGDocument == null) return;
-                	// 		g_svgRoot = SVGDocument.rootElement;
-                	// 		initSVGMove();
-                	// 		hot();
-                	// 		console.log("find svg suceess");
-                	// }else{
-                	// 	console.error("can't find svg.");
-                	// }
-                if ($scope.MyModelClass == undefined) {
-                	$scope.CreateWidgetClasses();
-                }
-                	$scope.StructuerLoadComplete();
-                }
-                var playAnimationFlag = setInterval(function(){										
-                	if($scope.currentModelWidget.HasAnimation()){
-                        $scope.currentModelWidget.PlayAnimation();
-                        // var theCanvas = document.getElementById('view1_CreoViewCanvas0');
-                        // if (theCanvas) {
-                        //     var gl = theCanvas.getContext('webgl');
-                        //     if (gl) {
-                        //         // gl.fillStyle = 'rgba(0, 0, 255, 0.5)';
-                        //         // gl.clearColor(0.0, 0.5, 0.0, 1.0);
-                        //         gl.clearColor(0, 0, 0, 0);
-                        //         gl.clear(gl.COLOR_BUFFER_BIT);
-                        //         // clearInterval(setTransparentBg);
-                        //     }
-                        // }
-                		clearInterval(playAnimationFlag);
-                	}
-                }, 1000);
+                        }else{
+                            $scope.LoadIllustration($scope.illustrations[0]);
+                        }
+                    if ($scope.MyModelClass == undefined) {
+                        $scope.CreateWidgetClasses();
+                    }
+                        $scope.StructuerLoadComplete();
+                    }
+                    var playAnimationFlag = setInterval(function(){
+                        if($scope.currentModelWidget.HasAnimation()){
+                            $scope.currentModelWidget.PlayAnimation();
+                            clearInterval(playAnimationFlag);
+                        }
+                    }, 1000);
                 });
-
-                // var xhr = new XMLHttpRequest();
-                // xhr.responseType = "arraybuffer";
-
-                // by wzx
-                // 内部加密
-                // xhr.open("get", "http://172.16.31.110:8080/mro-encryption/encrypt/downloadFileWithXor?fileName=21BBG2500000.pvz");
-                // 高重加密
-                // TAV-23BBG252AA00.03.pvz
-                // 21BBG2500000.pvz
-                // xhr.open("get", "http://172.16.36.110:8080/mro-encryption/encrypt/downloadSourceFile?fileName=21BBG2500000.pvz");
-                // xhr.setRequestHeader('mroToken', 'xlv1Z1ZChi7i0mQRyMV1k7bhCzk=');
-                // 内部加密
-                // http://172.16.31.32:9096/xorencrypedfile
-                // 高重加密
-                // http://172.16.31.32:9096/encrypedfile
-
-                // xhr.onload = function (e) {
-                //     if (xhr.status === 200) {
-                //         var buffer = xhr.response;
-                //         // 内部加密
-                //         // console.log('succuess');
-                //         // // var int8View = new Int8Array(buffer);
-                //         // // // xor解密算法
-                //         // var dataBytes = new Int8Array(buffer);
-                //         // // 返回值
-                //         // var newBytes = new Int8Array(dataBytes.length);
-                //         // var keyStr = "sdasdyasghadkjas";
-                //         // // 加密处理
-                //         // var keyBytes = [];
-                //         // var utf8 = unescape(encodeURIComponent(keyStr));
-                //         // for (var i = 0; i < utf8.length; i++) {
-                //         //     keyBytes.push(utf8.charCodeAt(i));
-                //         // }
-                //         // console.log(keyBytes);
-                //         // for(var i = 0, size = dataBytes.length; i < size; i++){
-                //         //     newBytes[i] = parseInt(dataBytes[i]^keyBytes[i%keyBytes.length]);
-                //         // }
-                //         // 高重加密
-                //         var dataBytes = new Int8Array(buffer);
-                //         var keyArray = dataBytes.subarray(0, 16);
-                //         console.log(keyArray);
-                //         var fileBytes = dataBytes.subarray(16);
-                //         // 返回值
-                //         var newBytes = new Int8Array(dataBytes.length);
-                //         // console.log(keyBytes);
-                //         for (var i = 0, size = fileBytes.length; i < size; i++) {
-                //             newBytes[i] = parseInt(fileBytes[i] ^ keyArray[i % keyArray.length]);
-                //         }
-                //         newBytes = dataBytes;
-
-                //         console.log(">>>>>>加密后解密的文件字节流>>>>>>>>");
-                //         console.log(newBytes);
-                //         // t = newBytes.buffer;
-                //         //majar
-                //         widget1.LoadFromDataSourceWithCallback('TAV-23BBG252AA00_animation.pvz', newBytes, true, true, function (success, isStructure, errorStack) {
-                //             $('#app').css('display', '');
-                //             $('#appLoding').css('display', 'none');
-                //             $('#appLoding').mLoading("hide");
-                //             console.log("Model LoadFromURLWithCallback - success: " + success + ", isStructure: " + isStructure);
-                //             if (success === true) {
-                //                 $scope.loadState = "Loaded";
-                //                 console.log("last process");
-                //                 console.log($scope);
-                //                 console.log($scope.currentModelWidget);
-                //                 console.log($scope.currentModelWidget.GetItemsList());
-                //                 // if ($.urlGet()['model']) {
-
-                //                 // } else {
-                //                 //     $scope.LoadIllustration($scope.illustrations[0]);
-                //                 //     console.log($scope.itemsList);
-                //                 // }
-                //                 if ($scope.MyModelClass == undefined) {
-                //                     $scope.CreateWidgetClasses();
-                //                 }
-                //                 $scope.StructuerLoadComplete();
-                //                 //  if ($.urlGet()['model']) {
-
-                //                 // } else {
-                //                 $scope.LoadIllustration($scope.illustrations[0]);
-                //                 console.log($scope.itemsList);
-                //                 // }
-                //                 // var svg = document.getElementById('svg');
-                //                 // if(svg!=null){
-                //                 //   g_svgHot = [];
-                //                 //   var SVGDocument = svg.getSVGDocument();
-                //                 //   g_svgViewer=svg;
-                //                 //   if (SVGDocument == null) return;
-                //                 //   g_svgRoot = SVGDocument.rootElement;
-                //                 //   initSVGMove();
-                //                 //   hot();
-                //                 //   console.log("find svg suceess");
-                //                 // }else{
-                //                 //  console.error("can't find svg.");
-                //                 // }
-
-
-                //             }
-                //             var playAnimationFlag = setInterval(function () {
-                //                 if ($scope.currentModelWidget.HasAnimation()) {
-                //                     $scope.currentModelWidget.PlayAnimation();
-                //                     console.log('bofang');
-                //                     // var theCanvas = document.getElementById('view1_CreoViewCanvas0');
-                //                     // if (theCanvas) {
-                //                     //     var gl = theCanvas.getContext('webgl');
-                //                     //     if (gl) {
-                //                     //         // gl.fillStyle = 'rgba(0, 0, 255, 0.5)';
-                //                     //         // gl.clearColor(0.0, 0.5, 0.0, 1.0);
-                //                     //         gl.clearColor(0, 0, 0, 0);
-                //                     //         gl.clear(gl.COLOR_BUFFER_BIT);
-                //                     //         // clearInterval(setTransparentBg);
-                //                     //     }
-                //                     // }
-                //                     clearInterval(playAnimationFlag);
-                //                 }
-                //             }, 1000);
-                //         });
-                //     }
-                // }
-                // xhr.send(null);
-
-
 
                 $scope.session.AllowPartSelection($scope.webglSettings.partSelection == 'YES');
                 if ($scope.webglSettings.dragMode == 'YES')

@@ -1,0 +1,5 @@
+
+node_modules/
+illustrations/ctmc/*/*.xlsx
+illustrations/ctmc/*/*.docx
+illustrations/ctmc
