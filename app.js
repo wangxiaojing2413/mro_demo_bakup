@@ -5554,6 +5554,7 @@ tvModule.controller("ThingViewController", function ($scope, $timeout, $interval
                 let idPath = node.data.idpath;
                 /**获取零件路径唯一标识*/
                 let strippedIdpath = $scope.StripModelIdFromIdPath(idPath);
+                //模型加载时调用widget1.LoadFromURLWithCallback没有给$scope.structure赋值
                 let propsJson = $scope.structure.GetInstanceProperties(strippedIdpath);
                 let propsJsonObj = JSON.parse(propsJson);
                 let propsObj = propsJsonObj[strippedIdpath];
@@ -7047,7 +7048,7 @@ tvModule.directive('tview', function ($timeout) {
                 //majar
                 path = './illustrations/ctmc/worldcar-brake-multi-figure.pvz'
                 //widget1.LoadFromURLWithCallback这个函数在这里调用时，无法给$scope.structure赋值，在后面打开弹窗时无法获取let propsJson = $scope.structure.GetInstanceProperties(strippedIdpath)
-                //如果换成官方版本demo中的$scope.structure = $scope.session.LoadStructureWithURL()方法，会报错，比较是不是同一个版本
+                //如果换成官方版本demo中的$scope.structure = $scope.session.LoadStructureWithURL()方法，会报错，比较是不是同一个版本（ptc2中是官方demo依赖库文件
                 widget1.LoadFromURLWithCallback(path, true, true, true, function(success, isStructure, errorStack){
                    $('#app').css('display','');
                    $('#appLoding').css('display','none');
