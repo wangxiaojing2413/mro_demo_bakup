@@ -1,0 +1,306 @@
+﻿{
+    "titles": [
+        {
+            "title": "EPC.link.standardNo",
+            "key": "standardNo"
+        },
+        {
+            "title": "EPC.link.spec",
+            "key": "spec"
+        },
+        {
+            "title": "EPC.link.enTranslator",
+            "key": "enTranslator"
+        }
+    ],
+    "content": [
+        {
+            "part.num": "32A033137217",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 1,
+            "amount": 16,
+            "part.spec": "M8×35",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26001300",
+            "part.ZHname": "垫圈",
+            "linkNo": 2,
+            "amount": 12,
+            "part.spec": "冷拉圆钢 8-13/45",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "32A033137215",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 3,
+            "amount": 8,
+            "part.spec": "M8×25",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26000200",
+            "part.ZHname": "齿轮",
+            "linkNo": 4,
+            "amount": 1,
+            "part.spec": "圆钢 2-95/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "1BBG26000400",
+            "part.ZHname": "齿轮",
+            "linkNo": 5,
+            "amount": 1,
+            "part.spec": "圆钢 2-95/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "4BBG26000200",
+            "part.ZHname": "十字滑块",
+            "linkNo": 6,
+            "amount": 1,
+            "part.spec": "ZCUSN10ZN2",
+            "epc.remark": "EA",
+            "epc.bmpname": "十字滑块"
+        },
+        {
+            "part.num": "1BBG26001600",
+            "part.ZHname": "偏心轴",
+            "linkNo": 7,
+            "amount": 2,
+            "part.spec": "圆钢 2-16/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "偏心轴"
+        },
+        {
+            "part.num": "1BBG26001200",
+            "part.ZHname": "齿轮",
+            "linkNo": 8,
+            "amount": 1,
+            "part.spec": "圆钢 2-95/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "32B045701151",
+            "part.ZHname": "不带内圈的滚针轴承",
+            "linkNo": 9,
+            "amount": 1,
+            "part.spec": "NK 50/25  50×62×25",
+            "epc.remark": "EA",
+            "epc.bmpname": "不带内圈的滚针轴承"
+        },
+        {
+            "part.num": "1BBG26000600",
+            "part.ZHname": "齿轮",
+            "linkNo": 10,
+            "amount": 1,
+            "part.spec": "圆钢 2-95/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "1BBG26002200",
+            "part.ZHname": "齿轮",
+            "linkNo": 11,
+            "amount": 1,
+            "part.spec": "圆钢 2-95/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "1BBG26000500",
+            "part.ZHname": "齿轮",
+            "linkNo": 12,
+            "amount": 1,
+            "part.spec": "圆钢 2-95/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "32B173000137",
+            "part.ZHname": "轴承内圈",
+            "linkNo": 13,
+            "amount": 1,
+            "part.spec": "IR 45×50×35",
+            "epc.remark": "EA",
+            "epc.bmpname": "轴承内圈"
+        },
+        {
+            "part.num": "1BBG26001100",
+            "part.ZHname": "压盖",
+            "linkNo": 14,
+            "amount": 1,
+            "part.spec": "圆钢 2-35/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "压盖"
+        },
+        {
+            "part.num": "32B046010001",
+            "part.ZHname": "带内圈的滚针轴承",
+            "linkNo": 15,
+            "amount": 1,
+            "part.spec": "NKI 20/16  20×32×16",
+            "epc.remark": "EA",
+            "epc.bmpname": "带内圈的滚针轴承"
+        },
+        {
+            "part.num": "4BBG26000100",
+            "part.ZHname": "传动轴",
+            "linkNo": 16,
+            "amount": 1,
+            "part.spec": "圆钢 2-80/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "传动轴"
+        },
+        {
+            "part.num": "1BBG26001900",
+            "part.ZHname": "轴",
+            "linkNo": 17,
+            "amount": 1,
+            "part.spec": "圆钢 2-80/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "轴"
+        },
+        {
+            "part.num": "32G021602009",
+            "part.ZHname": "O形橡胶密封圈",
+            "linkNo": 18,
+            "amount": 1,
+            "part.spec": "9.19×2.62",
+            "epc.remark": "EA",
+            "epc.bmpname": "O形橡胶密封圈"
+        },
+        {
+            "part.num": "32A033638507",
+            "part.ZHname": "内六角沉头螺钉",
+            "linkNo": 19,
+            "amount": 16,
+            "part.spec": "M6×14",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角沉头螺钉"
+        },
+        {
+            "part.num": "1BBG26002000",
+            "part.ZHname": "压盖",
+            "linkNo": 20,
+            "amount": 2,
+            "part.spec": "冷拉圆钢 11-75/60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "压盖"
+        },
+        {
+            "part.num": "32B025010302",
+            "part.ZHname": "滚动轴承",
+            "linkNo": 21,
+            "amount": 4,
+            "part.spec": "E220 7PE1 DDM  20×47×14",
+            "epc.remark": "EA",
+            "epc.bmpname": "滚动轴承"
+        },
+        {
+            "part.num": "32B171110009",
+            "part.ZHname": "锁紧螺母",
+            "linkNo": 22,
+            "amount": 2,
+            "part.spec": "MRR20×1  M20×1",
+            "epc.remark": "EA",
+            "epc.bmpname": "锁紧螺母"
+        },
+        {
+            "part.num": "1BBG26002500",
+            "part.ZHname": "螺母",
+            "linkNo": 23,
+            "amount": 1,
+            "part.spec": "圆钢 2-45/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "螺母"
+        },
+        {
+            "part.num": "32B040110006",
+            "part.ZHname": "单列圆柱滚子轴承",
+            "linkNo": 24,
+            "amount": 1,
+            "part.spec": "NU2207 EC  35×72×23",
+            "epc.remark": "EA",
+            "epc.bmpname": "单列圆柱滚子轴承"
+        },
+        {
+            "part.num": "32B171110014",
+            "part.ZHname": "锁紧螺母",
+            "linkNo": 25,
+            "amount": 1,
+            "part.spec": "MRR50  M50×1.5",
+            "epc.remark": "EA",
+            "epc.bmpname": "锁紧螺母"
+        },
+        {
+            "part.num": "32B025010403",
+            "part.ZHname": "滚动轴承",
+            "linkNo": 26,
+            "amount": 2,
+            "part.spec": "EX55 7CE1 FFM  55×90×18",
+            "epc.remark": "EA",
+            "epc.bmpname": "滚动轴承"
+        },
+        {
+            "part.num": "4BBG26000800",
+            "part.ZHname": "油管",
+            "linkNo": 27,
+            "amount": 1,
+            "part.spec": "拉管 Φ6×1/T2-M",
+            "epc.remark": "EA",
+            "epc.bmpname": "油管"
+        },
+        {
+            "part.num": "1BBG26000700",
+            "part.ZHname": "挡块",
+            "linkNo": 28,
+            "amount": 1,
+            "part.spec": "Q235-B",
+            "epc.remark": "EA",
+            "epc.bmpname": "挡块"
+        },
+        {
+            "part.num": "32A033137182",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 29,
+            "amount": 1,
+            "part.spec": "M6×12",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26001700",
+            "part.ZHname": "压盖",
+            "linkNo": 30,
+            "amount": 1,
+            "part.spec": "冷板 B-4.0/60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "压盖"
+        },
+        {
+            "part.num": "361180401101",
+            "part.ZHname": "A型平键",
+            "linkNo": 31,
+            "amount": 1,
+            "part.spec": "8M6×7×20",
+            "epc.remark": "EA",
+            "epc.bmpname": "A型平键"
+        },
+        {
+            "part.num": "1BBG26002300",
+            "part.ZHname": "法兰轴",
+            "linkNo": 32,
+            "amount": 1,
+            "part.spec": "圆钢 2-85/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "法兰轴"
+        }
+    ]
+}

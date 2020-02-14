@@ -1,0 +1,378 @@
+﻿{
+    "titles": [
+        {
+            "title": "EPC.link.standardNo",
+            "key": "standardNo"
+        },
+        {
+            "title": "EPC.link.spec",
+            "key": "spec"
+        },
+        {
+            "title": "EPC.link.enTranslator",
+            "key": "enTranslator"
+        }
+    ],
+    "content": [
+        {
+            "part.num": "1BBG26001400",
+            "part.ZHname": "密封条",
+            "linkNo": 1,
+            "amount": 1,
+            "part.spec": "橡胶圆条 Φ3.53×930",
+            "epc.remark": "EA",
+            "epc.bmpname": "密封条"
+        },
+        {
+            "part.num": "32G021608046",
+            "part.ZHname": "O形橡胶密封圈",
+            "linkNo": 2,
+            "amount": 1,
+            "part.spec": "46.04×3.53",
+            "epc.remark": "EA",
+            "epc.bmpname": "O形橡胶密封圈"
+        },
+        {
+            "part.num": "32A033137185",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 3,
+            "amount": 3,
+            "part.spec": "M6×20",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26000300",
+            "part.ZHname": "管接头",
+            "linkNo": 4,
+            "amount": 1,
+            "part.spec": "棒 Φ85/6082-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "管接头"
+        },
+        {
+            "part.num": "32A054131080",
+            "part.ZHname": "标准型弹簧垫圈",
+            "linkNo": 5,
+            "amount": 8,
+            "part.spec": "8",
+            "epc.remark": "EA",
+            "epc.bmpname": "标准型弹簧垫圈"
+        },
+        {
+            "part.num": "32A033137217",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 6,
+            "amount": 8,
+            "part.spec": "M8×35",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "4BBG26001000",
+            "part.ZHname": "齿轮箱",
+            "linkNo": 7,
+            "amount": 1,
+            "part.spec": "HT250",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮箱"
+        },
+        {
+            "part.num": "32G021617051",
+            "part.ZHname": "O形橡胶密封圈",
+            "linkNo": 8,
+            "amount": 1,
+            "part.spec": "107.54×3.53",
+            "epc.remark": "EA",
+            "epc.bmpname": "O形橡胶密封圈"
+        },
+        {
+            "part.num": "32G021608110",
+            "part.ZHname": "O形橡胶密封圈",
+            "linkNo": 9,
+            "amount": 1,
+            "part.spec": "110.72×3.53",
+            "epc.remark": "EA",
+            "epc.bmpname": "O形橡胶密封圈"
+        },
+        {
+            "part.num": "32A033137514",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 10,
+            "amount": 4,
+            "part.spec": "M8×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26000800",
+            "part.ZHname": "压盖",
+            "linkNo": 11,
+            "amount": 1,
+            "part.spec": "棒 Φ120/6082-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "压盖"
+        },
+        {
+            "part.num": "32A033137152",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 12,
+            "amount": 1,
+            "part.spec": "M5×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26000900",
+            "part.ZHname": "挡块",
+            "linkNo": 13,
+            "amount": 1,
+            "part.spec": "45",
+            "epc.remark": "EA",
+            "epc.bmpname": "挡块"
+        },
+        {
+            "part.num": "32A054131100",
+            "part.ZHname": "标准型弹簧垫圈",
+            "linkNo": 14,
+            "amount": 5,
+            "part.spec": "10",
+            "epc.remark": "EA",
+            "epc.bmpname": "标准型弹簧垫圈"
+        },
+        {
+            "part.num": "1BBG26001000",
+            "part.ZHname": "齿轮",
+            "linkNo": 15,
+            "amount": 1,
+            "part.spec": "圆钢 2-90/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "齿轮"
+        },
+        {
+            "part.num": "32A033137253",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 16,
+            "amount": 5,
+            "part.spec": "M10×25",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "32G202501014",
+            "part.ZHname": "密封垫圈",
+            "linkNo": 17,
+            "amount": 1,
+            "part.spec": "14",
+            "epc.remark": "EA",
+            "epc.bmpname": "密封垫圈"
+        },
+        {
+            "part.num": "1BBG26002400",
+            "part.ZHname": "接头",
+            "linkNo": 18,
+            "amount": 1,
+            "part.spec": "冷拉六角钢 11-18/45",
+            "epc.remark": "EA",
+            "epc.bmpname": "接头"
+        },
+        {
+            "part.num": "32G202501022",
+            "part.ZHname": "密封垫圈",
+            "linkNo": 19,
+            "amount": 1,
+            "part.spec": "22",
+            "epc.remark": "EA",
+            "epc.bmpname": "密封垫圈"
+        },
+        {
+            "part.num": "32J093910003",
+            "part.ZHname": "透气塞",
+            "linkNo": 20,
+            "amount": 1,
+            "part.spec": "TSFT/N5M  22×1.5 D=26 H=29 F=1",
+            "epc.remark": "EA",
+            "epc.bmpname": "透气塞"
+        },
+        {
+            "part.num": "32A054161120",
+            "part.ZHname": "标准型弹簧垫圈",
+            "linkNo": 21,
+            "amount": 6,
+            "part.spec": "标准型  12",
+            "epc.remark": "EA",
+            "epc.bmpname": "标准型弹簧垫圈"
+        },
+        {
+            "part.num": "32A050763012",
+            "part.ZHname": "平垫圈-倒角型",
+            "linkNo": 22,
+            "amount": 7,
+            "part.spec": "12",
+            "epc.remark": "EA",
+            "epc.bmpname": "平垫圈-倒角型"
+        },
+        {
+            "part.num": "32A054131120",
+            "part.ZHname": "标准型弹簧垫圈",
+            "linkNo": 23,
+            "amount": 1,
+            "part.spec": "12",
+            "epc.remark": "EA",
+            "epc.bmpname": "标准型弹簧垫圈"
+        },
+        {
+            "part.num": "32A041136011",
+            "part.ZHname": "1型六角螺母",
+            "linkNo": 24,
+            "amount": 7,
+            "part.spec": "M12",
+            "epc.remark": "EA",
+            "epc.bmpname": "1型六角螺母"
+        },
+        {
+            "part.num": "32A033137215",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 25,
+            "amount": 10,
+            "part.spec": "M8×25",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "4BBG26000400",
+            "part.ZHname": "筋板",
+            "linkNo": 26,
+            "amount": 1,
+            "part.spec": "钢板 B-8/Q235-B",
+            "epc.remark": "EA",
+            "epc.bmpname": "筋板"
+        },
+        {
+            "part.num": "4BBG26000500",
+            "part.ZHname": "套筒",
+            "linkNo": 27,
+            "amount": 1,
+            "part.spec": "冷拔无缝管 42X5/20",
+            "epc.remark": "EA",
+            "epc.bmpname": "套筒"
+        },
+        {
+            "part.num": "4BBG26000600",
+            "part.ZHname": "底座",
+            "linkNo": 28,
+            "amount": 1,
+            "part.spec": "钢板 B-18/Q235-B",
+            "epc.remark": "EA",
+            "epc.bmpname": "底座"
+        },
+        {
+            "part.num": "32A033137518",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 29,
+            "amount": 2,
+            "part.spec": "M8×22",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "32G021608039",
+            "part.ZHname": "O形橡胶密封圈",
+            "linkNo": 30,
+            "amount": 1,
+            "part.spec": "39.69×3.53",
+            "epc.remark": "EA",
+            "epc.bmpname": "O形橡胶密封圈"
+        },
+        {
+            "part.num": "1BBG26001800",
+            "part.ZHname": "压盖",
+            "linkNo": 31,
+            "amount": 1,
+            "part.spec": "冷拉圆钢 11-75/Q235-B",
+            "epc.remark": "EA",
+            "epc.bmpname": "压盖"
+        },
+        {
+            "part.num": "32A033137183",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 32,
+            "amount": 3,
+            "part.spec": "M6×14",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26002100",
+            "part.ZHname": "压盖",
+            "linkNo": 33,
+            "amount": 1,
+            "part.spec": "45",
+            "epc.remark": "EA",
+            "epc.bmpname": "压盖"
+        },
+        {
+            "part.num": "32A033137155",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 34,
+            "amount": 4,
+            "part.spec": "M5×16",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "32G020110031",
+            "part.ZHname": "内包骨架旋转轴唇形密封圈",
+            "linkNo": 35,
+            "amount": 1,
+            "part.spec": "BAU  35×55×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "内包骨架旋转轴唇形密封圈"
+        },
+        {
+            "part.num": "32A033137182",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 36,
+            "amount": 4,
+            "part.spec": "M6×12",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1BBG26001500",
+            "part.ZHname": "闷盖",
+            "linkNo": 37,
+            "amount": 1,
+            "part.spec": "6082-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "闷盖"
+        },
+        {
+            "part.num": "32G021617065",
+            "part.ZHname": "O形橡胶密封圈",
+            "linkNo": 38,
+            "amount": 2,
+            "part.spec": "75.79×3.53",
+            "epc.remark": "EA",
+            "epc.bmpname": "O形橡胶密封圈"
+        },
+        {
+            "part.num": "4BBG26000300",
+            "part.ZHname": "箱盖",
+            "linkNo": 39,
+            "amount": 1,
+            "part.spec": "HT250",
+            "epc.remark": "EA",
+            "epc.bmpname": "箱盖"
+        },
+        {
+            "part.num": "32A063132072",
+            "part.ZHname": "孔用弹性挡圈",
+            "linkNo": 40,
+            "amount": 1,
+            "part.spec": "A型  72",
+            "epc.remark": "EA",
+            "epc.bmpname": "孔用弹性挡圈"
+        }
+    ]
+}

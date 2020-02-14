@@ -1,0 +1,225 @@
+﻿{
+    "titles": [
+        {
+            "title": "EPC.link.standardNo",
+            "key": "standardNo"
+        },
+        {
+            "title": "EPC.link.spec",
+            "key": "spec"
+        },
+        {
+            "title": "EPC.link.enTranslator",
+            "key": "enTranslator"
+        }
+    ],
+    "content": [
+        {
+            "part.num": "3BBG25200500",
+            "part.ZHname": "垫片",
+            "linkNo": 1,
+            "amount": 2,
+            "part.spec": "橡胶板 C4-4H6HR1-2",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫片"
+        },
+        {
+            "part.num": "5BBG252ABA00",
+            "part.ZHname": "柱",
+            "linkNo": 2,
+            "amount": 2,
+            "part.spec": "7075-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "柱"
+        },
+        {
+            "part.num": "32A033137156",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 3,
+            "amount": 4,
+            "part.spec": "M5×20",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "32A072201104",
+            "part.ZHname": "圆柱销",
+            "linkNo": 4,
+            "amount": 4,
+            "part.spec": "4?6",
+            "epc.remark": "EA",
+            "epc.bmpname": "圆柱销"
+        },
+        {
+            "part.num": "32X011308081",
+            "part.ZHname": "有折断槽钢丝螺套",
+            "linkNo": 5,
+            "amount": 14,
+            "part.spec": "6×1×4",
+            "epc.remark": "EA",
+            "epc.bmpname": "有折断槽钢丝螺套"
+        },
+        {
+            "part.num": "32A232916205",
+            "part.ZHname": "内六角短圆柱头螺钉",
+            "linkNo": 6,
+            "amount": 8,
+            "part.spec": "M6×8",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角短圆柱头螺钉"
+        },
+        {
+            "part.num": "5BBG252ACA00",
+            "part.ZHname": "模盒",
+            "linkNo": 7,
+            "amount": 2,
+            "part.spec": "7075-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "模盒"
+        },
+        {
+            "part.num": "32A072201101",
+            "part.ZHname": "圆柱销",
+            "linkNo": 8,
+            "amount": 14,
+            "part.spec": "4×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "圆柱销"
+        },
+        {
+            "part.num": "3BBG25200300",
+            "part.ZHname": "轮块",
+            "linkNo": 9,
+            "amount": 1,
+            "part.spec": "317102410004",
+            "epc.remark": "EA",
+            "epc.bmpname": "轮块"
+        },
+        {
+            "part.num": "1BCG22004600",
+            "part.ZHname": "垫圈",
+            "linkNo": 10,
+            "amount": 2,
+            "part.spec": "圆钢 2-15/1CR18NI9",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "32A033638502",
+            "part.ZHname": "内六角沉头螺钉",
+            "linkNo": 11,
+            "amount": 2,
+            "part.spec": "M4×14",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角沉头螺钉"
+        },
+        {
+            "part.num": "23BBG252AA00",
+            "part.ZHname": "一号轮",
+            "linkNo": 12,
+            "amount": 1,
+            "part.spec": "一号轮",
+            "epc.remark": "ST",
+            "epc.bmpname": "一号轮"
+        },
+        {
+            "part.num": "6BBG25200100",
+            "part.ZHname": "轮轴",
+            "linkNo": 13,
+            "amount": 1,
+            "part.spec": "圆钢 2-110/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "轮轴"
+        },
+        {
+            "part.num": "32A033137214",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 14,
+            "amount": 4,
+            "part.spec": "M8×20",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "6BBG25200200",
+            "part.ZHname": "板",
+            "linkNo": 15,
+            "amount": 1,
+            "part.spec": "5083-HX8",
+            "epc.remark": "EA",
+            "epc.bmpname": "板"
+        },
+        {
+            "part.num": "5BBG252AAA00",
+            "part.ZHname": "模盒",
+            "linkNo": 16,
+            "amount": 2,
+            "part.spec": "7075-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "模盒"
+        },
+        {
+            "part.num": "3BBG25200200",
+            "part.ZHname": "小板",
+            "linkNo": 17,
+            "amount": 1,
+            "part.spec": "冷板 B-1.0/60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "小板"
+        },
+        {
+            "part.num": "6BBG25200400",
+            "part.ZHname": "板",
+            "linkNo": 18,
+            "amount": 1,
+            "part.spec": "5083-HX8",
+            "epc.remark": "EA",
+            "epc.bmpname": "板"
+        },
+        {
+            "part.num": "5BBG252AEA00",
+            "part.ZHname": "法兰座",
+            "linkNo": 19,
+            "amount": 1,
+            "part.spec": "6082-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "法兰座"
+        },
+        {
+            "part.num": "6BBG25200500",
+            "part.ZHname": "板",
+            "linkNo": 20,
+            "amount": 1,
+            "part.spec": "60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "板"
+        },
+        {
+            "part.num": "32A030616151",
+            "part.ZHname": "开槽沉头螺钉",
+            "linkNo": 21,
+            "amount": 4,
+            "part.spec": "M5×8",
+            "epc.remark": "EA",
+            "epc.bmpname": "开槽沉头螺钉"
+        },
+        {
+            "part.num": "3XB259.PRT",
+            "part.ZHname": "凸轮轴",
+            "linkNo": 22,
+            "amount": 1,
+            "part.spec": "圆钢 2-40/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "凸轮轴"
+        },
+        {
+            "part.num": "2BBG252AAA00",
+            "part.ZHname": "吸纸块",
+            "linkNo": 23,
+            "amount": 1,
+            "part.spec": "317102410004",
+            "epc.remark": "EA",
+            "epc.bmpname": "吸纸块"
+        }
+    ]
+}

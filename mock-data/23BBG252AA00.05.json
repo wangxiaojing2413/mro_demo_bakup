@@ -1,0 +1,279 @@
+﻿{
+    "titles": [
+        {
+            "title": "EPC.link.standardNo",
+            "key": "standardNo"
+        },
+        {
+            "title": "EPC.link.spec",
+            "key": "spec"
+        },
+        {
+            "title": "EPC.link.enTranslator",
+            "key": "enTranslator"
+        }
+    ],
+    "content": [
+        {
+            "part.num": "3BBG25200600",
+            "part.ZHname": "垫圈",
+            "linkNo": 1,
+            "amount": 4,
+            "part.spec": "Q235-B",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "32A030616151",
+            "part.ZHname": "开槽沉头螺钉",
+            "linkNo": 2,
+            "amount": 4,
+            "part.spec": "M5×8",
+            "epc.remark": "EA",
+            "epc.bmpname": "开槽沉头螺钉"
+        },
+        {
+            "part.num": "6BBG25200500",
+            "part.ZHname": "板",
+            "linkNo": 3,
+            "amount": 1,
+            "part.spec": "60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "板"
+        },
+        {
+            "part.num": "3BBG25200400",
+            "part.ZHname": "螺塞",
+            "linkNo": 4,
+            "amount": 1,
+            "part.spec": "45",
+            "epc.remark": "EA",
+            "epc.bmpname": "螺塞"
+        },
+        {
+            "part.num": "32B045410003",
+            "part.ZHname": "HK-RS型一面带密封圈冲压外圈滚针轴承",
+            "linkNo": 5,
+            "amount": 6,
+            "part.spec": "HK-RS型  HK 0810 RS 8×12×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "HK-RS型一面带密封圈冲压外圈滚针轴承"
+        },
+        {
+            "part.num": "3BBG25200500",
+            "part.ZHname": "垫片",
+            "linkNo": 6,
+            "amount": 2,
+            "part.spec": "橡胶板 C4-4H6HR1-2",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫片"
+        },
+        {
+            "part.num": "1BCG45001800",
+            "part.ZHname": "垫圈",
+            "linkNo": 7,
+            "amount": 1,
+            "part.spec": "圆钢 2-16/1CR18NI9",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "32B024300004",
+            "part.ZHname": "双列角接触球轴承",
+            "linkNo": 8,
+            "amount": 1,
+            "part.spec": "3800-2RS  10×19×7",
+            "epc.remark": "EA",
+            "epc.bmpname": "双列角接触球轴承"
+        },
+        {
+            "part.num": "32G020106020",
+            "part.ZHname": "内包骨架旋转轴唇形密封圈",
+            "linkNo": 9,
+            "amount": 2,
+            "part.spec": "G  8×12×3",
+            "epc.remark": "EA",
+            "epc.bmpname": "内包骨架旋转轴唇形密封圈"
+        },
+        {
+            "part.num": "3BBG25200700",
+            "part.ZHname": "轴架",
+            "linkNo": 10,
+            "amount": 1,
+            "part.spec": "圆钢 2-80/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "轴架"
+        },
+        {
+            "part.num": "32A013337021",
+            "part.ZHname": "六角头螺栓-全螺纹",
+            "linkNo": 11,
+            "amount": 4,
+            "part.spec": "M4×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "六角头螺栓-全螺纹"
+        },
+        {
+            "part.num": "32B045201013",
+            "part.ZHname": "冲压外圈滚针轴承",
+            "linkNo": 12,
+            "amount": 2,
+            "part.spec": "HK0808  8×12×8",
+            "epc.remark": "EA",
+            "epc.bmpname": "冲压外圈滚针轴承"
+        },
+        {
+            "part.num": "32A072201101",
+            "part.ZHname": "圆柱销",
+            "linkNo": 13,
+            "amount": 6,
+            "part.spec": "4×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "圆柱销"
+        },
+        {
+            "part.num": "3BBG25200800",
+            "part.ZHname": "销钉",
+            "linkNo": 14,
+            "amount": 1,
+            "part.spec": "圆钢 2-10/40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "销钉"
+        },
+        {
+            "part.num": "3BBG25201000",
+            "part.ZHname": "连杆",
+            "linkNo": 15,
+            "amount": 2,
+            "part.spec": "40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "连杆"
+        },
+        {
+            "part.num": "32B045701020",
+            "part.ZHname": "不带内圈的滚针轴承",
+            "linkNo": 16,
+            "amount": 1,
+            "part.spec": "NK 16/16  16×24×16",
+            "epc.remark": "EA",
+            "epc.bmpname": "不带内圈的滚针轴承"
+        },
+        {
+            "part.num": "2BBG252ACA00",
+            "part.ZHname": "连杆轴",
+            "linkNo": 17,
+            "amount": 2,
+            "part.spec": "20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "连杆轴"
+        },
+        {
+            "part.num": "32A054131060",
+            "part.ZHname": "标准型弹簧垫圈",
+            "linkNo": 18,
+            "amount": 4,
+            "part.spec": "6",
+            "epc.remark": "EA",
+            "epc.bmpname": "标准型弹簧垫圈"
+        },
+        {
+            "part.num": "32A041332060",
+            "part.ZHname": "六角薄螺母",
+            "linkNo": 19,
+            "amount": 4,
+            "part.spec": "M6",
+            "epc.remark": "EA",
+            "epc.bmpname": "六角薄螺母"
+        },
+        {
+            "part.num": "32B020110010",
+            "part.ZHname": "深沟球轴承",
+            "linkNo": 20,
+            "amount": 8,
+            "part.spec": "624 A  4×14×5",
+            "epc.remark": "EA",
+            "epc.bmpname": "深沟球轴承"
+        },
+        {
+            "part.num": "32A033137123",
+            "part.ZHname": "内六角圆柱头螺钉",
+            "linkNo": 21,
+            "amount": 4,
+            "part.spec": "M4×10",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角圆柱头螺钉"
+        },
+        {
+            "part.num": "1CCF11203700",
+            "part.ZHname": "垫圈",
+            "linkNo": 22,
+            "amount": 4,
+            "part.spec": "圆钢 2-10/45",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "32A054131040",
+            "part.ZHname": "标准型弹簧垫圈",
+            "linkNo": 23,
+            "amount": 8,
+            "part.spec": "4",
+            "epc.remark": "EA",
+            "epc.bmpname": "标准型弹簧垫圈"
+        },
+        {
+            "part.num": "3BBG25200900",
+            "part.ZHname": "凸轮轴",
+            "linkNo": 24,
+            "amount": 2,
+            "part.spec": "圆钢 2-40/20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "凸轮轴"
+        },
+        {
+            "part.num": "5BBG252AEA00",
+            "part.ZHname": "法兰座",
+            "linkNo": 25,
+            "amount": 9,
+            "part.spec": "6082-T6",
+            "epc.remark": "EA",
+            "epc.bmpname": "法兰座"
+        },
+        {
+            "part.num": "3BBG25201100",
+            "part.ZHname": "连杆",
+            "linkNo": 26,
+            "amount": 8,
+            "part.spec": "40CRNIMOA",
+            "epc.remark": "EA",
+            "epc.bmpname": "连杆"
+        },
+        {
+            "part.num": "3BBG25201200",
+            "part.ZHname": "垫圈",
+            "linkNo": 27,
+            "amount": 8,
+            "part.spec": "60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "2BBG252ADA00",
+            "part.ZHname": "连杆轴",
+            "linkNo": 28,
+            "amount": 2,
+            "part.spec": "20CRMNTI",
+            "epc.remark": "EA",
+            "epc.bmpname": "连杆轴"
+        },
+        {
+            "part.num": "32A263603012",
+            "part.ZHname": "孔用钢丝挡圈",
+            "linkNo": 29,
+            "amount": 2,
+            "part.spec": "BR 12  12×1",
+            "epc.remark": "EA",
+            "epc.bmpname": "孔用钢丝挡圈"
+        }
+    ]
+}

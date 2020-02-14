@@ -1,0 +1,90 @@
+﻿{
+    "titles": [
+        {
+            "title": "EPC.link.standardNo",
+            "key": "standardNo"
+        },
+        {
+            "title": "EPC.link.spec",
+            "key": "spec"
+        },
+        {
+            "title": "EPC.link.enTranslator",
+            "key": "enTranslator"
+        }
+    ],
+    "content": [
+        {
+            "part.num": "32A072201104",
+            "part.ZHname": "圆柱销",
+            "linkNo": 1,
+            "amount": 14,
+            "part.spec": "4?6",
+            "epc.remark": "EA",
+            "epc.bmpname": "圆柱销"
+        },
+        {
+            "part.num": "3BBG25200200",
+            "part.ZHname": "小板",
+            "linkNo": 2,
+            "amount": 6,
+            "part.spec": "冷板 B-1.0/60SI2MNA",
+            "epc.remark": "EA",
+            "epc.bmpname": "小板"
+        },
+        {
+            "part.num": "5BBG252ADA00",
+            "part.ZHname": "吸纸块",
+            "linkNo": 3,
+            "amount": 2,
+            "part.spec": "317102410004",
+            "epc.remark": "EA",
+            "epc.bmpname": "吸纸块"
+        },
+        {
+            "part.num": "32A033638502",
+            "part.ZHname": "内六角沉头螺钉",
+            "linkNo": 4,
+            "amount": 8,
+            "part.spec": "M4×14",
+            "epc.remark": "EA",
+            "epc.bmpname": "内六角沉头螺钉"
+        },
+        {
+            "part.num": "3BBG25200300",
+            "part.ZHname": "轮块",
+            "linkNo": 5,
+            "amount": 2,
+            "part.spec": "317102410004",
+            "epc.remark": "EA",
+            "epc.bmpname": "轮块"
+        },
+        {
+            "part.num": "1BCG22004600",
+            "part.ZHname": "垫圈",
+            "linkNo": 6,
+            "amount": 6,
+            "part.spec": "圆钢 2-15/1CR18NI9",
+            "epc.remark": "EA",
+            "epc.bmpname": "垫圈"
+        },
+        {
+            "part.num": "2BBG252AAA00",
+            "part.ZHname": "吸纸块",
+            "linkNo": 7,
+            "amount": 2,
+            "part.spec": "317102410004",
+            "epc.remark": "EA",
+            "epc.bmpname": "吸纸块"
+        },
+        {
+            "part.num": "2BBG252ABA00",
+            "part.ZHname": "吸纸块",
+            "linkNo": 8,
+            "amount": 2,
+            "part.spec": "317102410004",
+            "epc.remark": "EA",
+            "epc.bmpname": "吸纸块"
+        }
+    ]
+}
